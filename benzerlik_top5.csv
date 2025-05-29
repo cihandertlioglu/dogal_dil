@@ -1,0 +1,91 @@
+Model,Sıra,Index,Skor,Metin
+TF-IDF (Lemmatized),1,52,0.3089,Alexandre Lacazette'in 90+4'te attığı gol taraftarlara büyük sevinç yaşattı.
+TF-IDF (Lemmatized),2,10,0.2857,İrfan Can Kahveci'nin golü unutulmazdı!
+TF-IDF (Lemmatized),3,111,0.2463,"Marsilya, Nice'i 2-1 mağlup etti."
+TF-IDF (Lemmatized),4,34,0.2152,Tribünlerde büyük coşku yaşandı!
+TF-IDF (Lemmatized),5,1,0.1641,"Salah ve Griezmann'ın harika oyunuyla Nice, Lens'i 3-2 mağlup etti."
+TF-IDF (Stemmed),1,10,0.4240,İrfan Can Kahveci'nin golü unutulmazdı!
+TF-IDF (Stemmed),2,22,0.1915,Vincent Aboubakar'ın 89. dakikadaki golü taraftarları çılgına çevirdi!
+TF-IDF (Stemmed),3,40,0.1909,Mauro Icardi'nin hat-trick yapması taraftarları sevince boğdu.
+TF-IDF (Stemmed),4,72,0.1861,Elye Wahi'nin 2 golü Lens taraftarlarını sevince boğdu.
+TF-IDF (Stemmed),5,52,0.1835,Alexandre Lacazette'in 90+4'te attığı gol taraftarlara büyük sevinç yaşattı.
+Lemmatized CBOW Win2 Dim100,1,0,0.5796,Nice taraftarları unutulmaz bir gece yaşadı!
+Lemmatized CBOW Win2 Dim100,2,47,0.3562,"Leverkusen, Union Berlin'i 5-0 gibi farklı bir skorla yendi."
+Lemmatized CBOW Win2 Dim100,3,7,0.3558,"Bayern, Dortmund'u 5-0 yenerek şampiyonluğa bir adım daha yaklaştı."
+Lemmatized CBOW Win2 Dim100,4,21,0.3266,"Beşiktaş, Trabzon'da zorlu bir mücadele sonucu 2-1 kazandı."
+Lemmatized CBOW Win2 Dim100,5,90,0.2494,"Rafael Leao'nun süratinden yararlanan Rossoneri, Giroud'nun kafa golüyle galibiyete ulaştı."
+Lemmatized CBOW Win2 Dim300,1,0,0.6864,Nice taraftarları unutulmaz bir gece yaşadı!
+Lemmatized CBOW Win2 Dim300,2,21,0.2549,"Beşiktaş, Trabzon'da zorlu bir mücadele sonucu 2-1 kazandı."
+Lemmatized CBOW Win2 Dim300,3,7,0.2275,"Bayern, Dortmund'u 5-0 yenerek şampiyonluğa bir adım daha yaklaştı."
+Lemmatized CBOW Win2 Dim300,4,39,0.2044,"Galatasaray, Kayserispor'u 5-0 gibi farklı bir skorla devirdi."
+Lemmatized CBOW Win2 Dim300,5,47,0.1877,"Leverkusen, Union Berlin'i 5-0 gibi farklı bir skorla yendi."
+Lemmatized CBOW Win4 Dim100,1,0,0.5803,Nice taraftarları unutulmaz bir gece yaşadı!
+Lemmatized CBOW Win4 Dim100,2,47,0.3584,"Leverkusen, Union Berlin'i 5-0 gibi farklı bir skorla yendi."
+Lemmatized CBOW Win4 Dim100,3,7,0.3572,"Bayern, Dortmund'u 5-0 yenerek şampiyonluğa bir adım daha yaklaştı."
+Lemmatized CBOW Win4 Dim100,4,21,0.3286,"Beşiktaş, Trabzon'da zorlu bir mücadele sonucu 2-1 kazandı."
+Lemmatized CBOW Win4 Dim100,5,90,0.2522,"Rafael Leao'nun süratinden yararlanan Rossoneri, Giroud'nun kafa golüyle galibiyete ulaştı."
+Lemmatized CBOW Win4 Dim300,1,0,0.6870,Nice taraftarları unutulmaz bir gece yaşadı!
+Lemmatized CBOW Win4 Dim300,2,21,0.2563,"Beşiktaş, Trabzon'da zorlu bir mücadele sonucu 2-1 kazandı."
+Lemmatized CBOW Win4 Dim300,3,7,0.2288,"Bayern, Dortmund'u 5-0 yenerek şampiyonluğa bir adım daha yaklaştı."
+Lemmatized CBOW Win4 Dim300,4,39,0.2062,"Galatasaray, Kayserispor'u 5-0 gibi farklı bir skorla devirdi."
+Lemmatized CBOW Win4 Dim300,5,47,0.1893,"Leverkusen, Union Berlin'i 5-0 gibi farklı bir skorla yendi."
+Lemmatized Skipgram Win2 Dim100,1,0,0.5839,Nice taraftarları unutulmaz bir gece yaşadı!
+Lemmatized Skipgram Win2 Dim100,2,47,0.3699,"Leverkusen, Union Berlin'i 5-0 gibi farklı bir skorla yendi."
+Lemmatized Skipgram Win2 Dim100,3,7,0.3679,"Bayern, Dortmund'u 5-0 yenerek şampiyonluğa bir adım daha yaklaştı."
+Lemmatized Skipgram Win2 Dim100,4,21,0.3328,"Beşiktaş, Trabzon'da zorlu bir mücadele sonucu 2-1 kazandı."
+Lemmatized Skipgram Win2 Dim100,5,35,0.2584,"Monaco, Lille'i 2-0 yenerek Avrupa kupalarına katılım yolunda önemli bir adım attı."
+Lemmatized Skipgram Win2 Dim300,1,0,0.6885,Nice taraftarları unutulmaz bir gece yaşadı!
+Lemmatized Skipgram Win2 Dim300,2,21,0.2581,"Beşiktaş, Trabzon'da zorlu bir mücadele sonucu 2-1 kazandı."
+Lemmatized Skipgram Win2 Dim300,3,7,0.2365,"Bayern, Dortmund'u 5-0 yenerek şampiyonluğa bir adım daha yaklaştı."
+Lemmatized Skipgram Win2 Dim300,4,39,0.2106,"Galatasaray, Kayserispor'u 5-0 gibi farklı bir skorla devirdi."
+Lemmatized Skipgram Win2 Dim300,5,47,0.1932,"Leverkusen, Union Berlin'i 5-0 gibi farklı bir skorla yendi."
+Lemmatized Skipgram Win4 Dim100,1,0,0.5902,Nice taraftarları unutulmaz bir gece yaşadı!
+Lemmatized Skipgram Win4 Dim100,2,47,0.3894,"Leverkusen, Union Berlin'i 5-0 gibi farklı bir skorla yendi."
+Lemmatized Skipgram Win4 Dim100,3,7,0.3862,"Bayern, Dortmund'u 5-0 yenerek şampiyonluğa bir adım daha yaklaştı."
+Lemmatized Skipgram Win4 Dim100,4,21,0.3499,"Beşiktaş, Trabzon'da zorlu bir mücadele sonucu 2-1 kazandı."
+Lemmatized Skipgram Win4 Dim100,5,35,0.2830,"Monaco, Lille'i 2-0 yenerek Avrupa kupalarına katılım yolunda önemli bir adım attı."
+Lemmatized Skipgram Win4 Dim300,1,0,0.6910,Nice taraftarları unutulmaz bir gece yaşadı!
+Lemmatized Skipgram Win4 Dim300,2,21,0.2673,"Beşiktaş, Trabzon'da zorlu bir mücadele sonucu 2-1 kazandı."
+Lemmatized Skipgram Win4 Dim300,3,7,0.2457,"Bayern, Dortmund'u 5-0 yenerek şampiyonluğa bir adım daha yaklaştı."
+Lemmatized Skipgram Win4 Dim300,4,39,0.2199,"Galatasaray, Kayserispor'u 5-0 gibi farklı bir skorla devirdi."
+Lemmatized Skipgram Win4 Dim300,5,47,0.1993,"Leverkusen, Union Berlin'i 5-0 gibi farklı bir skorla yendi."
+Stemmed CBOW Win2 Dim100,1,0,0.6105,Nice taraftarları unutulmaz bir gece yaşadı!
+Stemmed CBOW Win2 Dim100,2,7,0.3928,"Bayern, Dortmund'u 5-0 yenerek şampiyonluğa bir adım daha yaklaştı."
+Stemmed CBOW Win2 Dim100,3,21,0.3815,"Beşiktaş, Trabzon'da zorlu bir mücadele sonucu 2-1 kazandı."
+Stemmed CBOW Win2 Dim100,4,35,0.3446,"Monaco, Lille'i 2-0 yenerek Avrupa kupalarına katılım yolunda önemli bir adım attı."
+Stemmed CBOW Win2 Dim100,5,47,0.3335,"Leverkusen, Union Berlin'i 5-0 gibi farklı bir skorla yendi."
+Stemmed CBOW Win2 Dim300,1,0,0.6874,Nice taraftarları unutulmaz bir gece yaşadı!
+Stemmed CBOW Win2 Dim300,2,7,0.4749,"Bayern, Dortmund'u 5-0 yenerek şampiyonluğa bir adım daha yaklaştı."
+Stemmed CBOW Win2 Dim300,3,21,0.4037,"Beşiktaş, Trabzon'da zorlu bir mücadele sonucu 2-1 kazandı."
+Stemmed CBOW Win2 Dim300,4,47,0.3939,"Leverkusen, Union Berlin'i 5-0 gibi farklı bir skorla yendi."
+Stemmed CBOW Win2 Dim300,5,39,0.3939,"Galatasaray, Kayserispor'u 5-0 gibi farklı bir skorla devirdi."
+Stemmed CBOW Win4 Dim100,1,0,0.6100,Nice taraftarları unutulmaz bir gece yaşadı!
+Stemmed CBOW Win4 Dim100,2,7,0.3938,"Bayern, Dortmund'u 5-0 yenerek şampiyonluğa bir adım daha yaklaştı."
+Stemmed CBOW Win4 Dim100,3,21,0.3821,"Beşiktaş, Trabzon'da zorlu bir mücadele sonucu 2-1 kazandı."
+Stemmed CBOW Win4 Dim100,4,35,0.3458,"Monaco, Lille'i 2-0 yenerek Avrupa kupalarına katılım yolunda önemli bir adım attı."
+Stemmed CBOW Win4 Dim100,5,39,0.3333,"Galatasaray, Kayserispor'u 5-0 gibi farklı bir skorla devirdi."
+Stemmed CBOW Win4 Dim300,1,0,0.6882,Nice taraftarları unutulmaz bir gece yaşadı!
+Stemmed CBOW Win4 Dim300,2,7,0.4774,"Bayern, Dortmund'u 5-0 yenerek şampiyonluğa bir adım daha yaklaştı."
+Stemmed CBOW Win4 Dim300,3,21,0.4051,"Beşiktaş, Trabzon'da zorlu bir mücadele sonucu 2-1 kazandı."
+Stemmed CBOW Win4 Dim300,4,47,0.3956,"Leverkusen, Union Berlin'i 5-0 gibi farklı bir skorla yendi."
+Stemmed CBOW Win4 Dim300,5,39,0.3956,"Galatasaray, Kayserispor'u 5-0 gibi farklı bir skorla devirdi."
+Stemmed Skipgram Win2 Dim100,1,0,0.6107,Nice taraftarları unutulmaz bir gece yaşadı!
+Stemmed Skipgram Win2 Dim100,2,7,0.4047,"Bayern, Dortmund'u 5-0 yenerek şampiyonluğa bir adım daha yaklaştı."
+Stemmed Skipgram Win2 Dim100,3,21,0.3921,"Beşiktaş, Trabzon'da zorlu bir mücadele sonucu 2-1 kazandı."
+Stemmed Skipgram Win2 Dim100,4,35,0.3579,"Monaco, Lille'i 2-0 yenerek Avrupa kupalarına katılım yolunda önemli bir adım attı."
+Stemmed Skipgram Win2 Dim100,5,39,0.3445,"Galatasaray, Kayserispor'u 5-0 gibi farklı bir skorla devirdi."
+Stemmed Skipgram Win2 Dim300,1,0,0.6899,Nice taraftarları unutulmaz bir gece yaşadı!
+Stemmed Skipgram Win2 Dim300,2,7,0.4865,"Bayern, Dortmund'u 5-0 yenerek şampiyonluğa bir adım daha yaklaştı."
+Stemmed Skipgram Win2 Dim300,3,21,0.4143,"Beşiktaş, Trabzon'da zorlu bir mücadele sonucu 2-1 kazandı."
+Stemmed Skipgram Win2 Dim300,4,47,0.4041,"Leverkusen, Union Berlin'i 5-0 gibi farklı bir skorla yendi."
+Stemmed Skipgram Win2 Dim300,5,39,0.4041,"Galatasaray, Kayserispor'u 5-0 gibi farklı bir skorla devirdi."
+Stemmed Skipgram Win4 Dim100,1,0,0.6135,Nice taraftarları unutulmaz bir gece yaşadı!
+Stemmed Skipgram Win4 Dim100,2,7,0.4156,"Bayern, Dortmund'u 5-0 yenerek şampiyonluğa bir adım daha yaklaştı."
+Stemmed Skipgram Win4 Dim100,3,21,0.3985,"Beşiktaş, Trabzon'da zorlu bir mücadele sonucu 2-1 kazandı."
+Stemmed Skipgram Win4 Dim100,4,35,0.3697,"Monaco, Lille'i 2-0 yenerek Avrupa kupalarına katılım yolunda önemli bir adım attı."
+Stemmed Skipgram Win4 Dim100,5,39,0.3536,"Galatasaray, Kayserispor'u 5-0 gibi farklı bir skorla devirdi."
+Stemmed Skipgram Win4 Dim300,1,0,0.6951,Nice taraftarları unutulmaz bir gece yaşadı!
+Stemmed Skipgram Win4 Dim300,2,7,0.4972,"Bayern, Dortmund'u 5-0 yenerek şampiyonluğa bir adım daha yaklaştı."
+Stemmed Skipgram Win4 Dim300,3,21,0.4218,"Beşiktaş, Trabzon'da zorlu bir mücadele sonucu 2-1 kazandı."
+Stemmed Skipgram Win4 Dim300,4,47,0.4155,"Leverkusen, Union Berlin'i 5-0 gibi farklı bir skorla yendi."
+Stemmed Skipgram Win4 Dim300,5,39,0.4155,"Galatasaray, Kayserispor'u 5-0 gibi farklı bir skorla devirdi."
